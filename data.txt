@@ -1,0 +1,172 @@
+{
+    "base": "stations",
+    "clouds": {
+        "all": 0
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 41.3888,
+        "lon": 2.159
+    },
+    "dt": 1645554328,
+    "id": 3128760,
+    "main": {
+        "feels_like": 11.92,
+        "humidity": 72,
+        "pressure": 1025,
+        "temp": 12.71,
+        "temp_max": 14.52,
+        "temp_min": 11.42
+    },
+    "name": "Barcelona",
+    "sys": {
+        "country": "ES",
+        "id": 18549,
+        "sunrise": 1645511823,
+        "sunset": 1645551183,
+        "type": 2
+    },
+    "timezone": 3600,
+    "visibility": 10000,
+    "weather": [
+        {
+            "description": "clear sky",
+            "icon": "01n",
+            "id": 800,
+            "main": "Clear"
+        }
+    ],
+    "wind": {
+        "deg": 210,
+        "speed": 3.6
+    }
+}{
+    "base": "stations",
+    "clouds": {
+        "all": 0
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 40.4165,
+        "lon": -3.7026
+    },
+    "dt": 1645554789,
+    "id": 3117735,
+    "main": {
+        "feels_like": 15.04,
+        "humidity": 24,
+        "pressure": 1027,
+        "temp": 16.69,
+        "temp_max": 18.13,
+        "temp_min": 13.51
+    },
+    "name": "Madrid",
+    "sys": {
+        "country": "ES",
+        "id": 6443,
+        "sunrise": 1645513158,
+        "sunset": 1645552661,
+        "type": 1
+    },
+    "timezone": 3600,
+    "visibility": 10000,
+    "weather": [
+        {
+            "description": "clear sky",
+            "icon": "01n",
+            "id": 800,
+            "main": "Clear"
+        }
+    ],
+    "wind": {
+        "deg": 60,
+        "speed": 2.06
+    }
+}{
+    "base": "stations",
+    "clouds": {
+        "all": 0
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 39.3333,
+        "lon": -0.8333
+    },
+    "dt": 1645554608,
+    "id": 2509951,
+    "main": {
+        "feels_like": 10.25,
+        "grnd_level": 982,
+        "humidity": 44,
+        "pressure": 1026,
+        "sea_level": 1026,
+        "temp": 11.86,
+        "temp_max": 13.14,
+        "temp_min": 11.14
+    },
+    "name": "Valencia",
+    "sys": {
+        "country": "ES",
+        "id": 2008731,
+        "sunrise": 1645512394,
+        "sunset": 1645552048,
+        "type": 2
+    },
+    "timezone": 3600,
+    "visibility": 10000,
+    "weather": [
+        {
+            "description": "clear sky",
+            "icon": "01n",
+            "id": 800,
+            "main": "Clear"
+        }
+    ],
+    "wind": {
+        "deg": 27,
+        "gust": 1.34,
+        "speed": 0.63
+    }
+}{
+    "base": "stations",
+    "clouds": {
+        "all": 0
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 37.3824,
+        "lon": -5.9761
+    },
+    "dt": 1645554806,
+    "id": 2510911,
+    "main": {
+        "feels_like": 21.43,
+        "humidity": 23,
+        "pressure": 1022,
+        "temp": 22.52,
+        "temp_max": 22.95,
+        "temp_min": 20.43
+    },
+    "name": "Seville",
+    "sys": {
+        "country": "ES",
+        "id": 6419,
+        "sunrise": 1645513496,
+        "sunset": 1645553415,
+        "type": 1
+    },
+    "timezone": 3600,
+    "visibility": 10000,
+    "weather": [
+        {
+            "description": "clear sky",
+            "icon": "01n",
+            "id": 800,
+            "main": "Clear"
+        }
+    ],
+    "wind": {
+        "deg": 360,
+        "speed": 2.57
+    }
+}
